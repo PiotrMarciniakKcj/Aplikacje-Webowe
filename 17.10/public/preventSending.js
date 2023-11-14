@@ -1,4 +1,4 @@
-document.querySelector('.submit').addEventListener('click', (e) => {
-    e.preventDefault()
-    alert('Nie można wysłać wiadomości')
-  })
+//document.querySelector('.submit').addEventListener('click', (e) => {
+//  e.preventDefault()
+//  alert('Nie można wysłać wiadomości')
+//  })
